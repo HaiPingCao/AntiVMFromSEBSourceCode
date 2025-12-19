@@ -1,3 +1,8 @@
+# Rust Port of Safe Exam Browser (SEB) Virtual Machine Detection Function
+
+- Original implementation:  
+  [VirtualMachineDetector.cs](https://github.com/SafeExamBrowser/seb-win-refactoring/blob/master/SafeExamBrowser.Monitoring/VirtualMachineDetector.cs)
+
 ## ⚠️ Important Notice: AI-Assisted Code Conversion
 
 This codebase was **written and/or converted from another programming language using AI tools**.
